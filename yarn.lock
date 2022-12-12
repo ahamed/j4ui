@@ -743,12 +743,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@claviska/jquery-minicolors@2.2.6":
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/@claviska/jquery-minicolors/-/jquery-minicolors-2.2.6.tgz#00b4c1e4e31e4da483501785d5c2ed3fccfdedc9"
-  integrity sha1-ALTB5OMeTaSDUBeF1cLtP8z97ck=
-  dependencies:
-    jquery ">= 1.7.x"
+"@claviska/jquery-minicolors@2.3.6":
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/@claviska/jquery-minicolors/-/jquery-minicolors-2.3.6.tgz#0f3dfe9baf11e93a3b1b1dcf2448177cf4c32e3e"
+  integrity sha512-8Ro6D4GCrmOl41+6w4NFhEOpx8vjxwVRI69bulXsFDt49uVRKhLU5TnzEV7AmOJrylkVq+ugnYNMiGHBieeKUQ==
 
 "@fortawesome/fontawesome-free@^5.9.0":
   version "5.10.2"
@@ -3124,7 +3122,7 @@ jquery-migrate@^3.1.0:
   resolved "https://registry.yarnpkg.com/jquery-migrate/-/jquery-migrate-3.1.0.tgz#8158de74cca39fb7fc2635db570151ae7ce3ddea"
   integrity sha512-u/MtE1ST2pCr3rCyouJG2xMiw/k3OzLNeRKprjKTeHUezCGr0DyEgeXFdqFLmQfxfR5EsVu+mGo/sCcYdiYcIQ==
 
-"jquery@>= 1.7.x", jquery@>=1.4.4, jquery@^3.4:
+jquery@>=1.4.4, jquery@^3.4:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
   integrity sha512-36+AdBzCL+y6qjw5Tx7HgzeGCzC81MDDgaUP8ld2zhx58HdqXGoBd+tHdrBMiyjGQs0Hxs/MLZTu/eHNJJuWPw==
